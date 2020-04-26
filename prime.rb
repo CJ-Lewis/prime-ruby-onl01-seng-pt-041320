@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(integer)
-  if integer = 2
+def prime?(value)
+  if value = 2
     puts true
   else
     puts false
