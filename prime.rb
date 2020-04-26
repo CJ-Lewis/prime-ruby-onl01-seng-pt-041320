@@ -3,7 +3,7 @@ def prime?(number)
   start = 2
   if number > 1
     (start..number-1).to_a
-      if value % i = 0
+      range.
         return false
       end
     end
