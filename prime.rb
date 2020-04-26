@@ -2,7 +2,7 @@
 def prime?(number)
   start = 2
   if number > 1
-    (start..number- 1).each do |i|
+    (start..number-1).to_a
       if value % i = 0
         return false
       end
