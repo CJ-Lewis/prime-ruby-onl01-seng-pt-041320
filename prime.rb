@@ -9,4 +9,5 @@ def prime?(value)
       end
     end
   end
+  true
 end
